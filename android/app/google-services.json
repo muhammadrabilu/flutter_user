@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "325617571869",
+    "project_id": "boda24-6606a",
+    "storage_bucket": "boda24-6606a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325617571869:android:b86536e24df2cd11ac0ef4",
+        "android_client_info": {
+          "package_name": "com.boda24"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeIuw7Ag9STigaQI6_fhbbR8TbXupQ5tI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
